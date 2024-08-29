@@ -1,4 +1,0 @@
-new string in feature/file
-qwerty
-new string 2
-new string 3
